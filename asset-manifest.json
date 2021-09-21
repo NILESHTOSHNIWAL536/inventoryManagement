@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/inventoryManagement/static/css/main.9ac2f857.chunk.css",
+    "main.js": "/inventoryManagement/static/js/main.250eb2b3.chunk.js",
+    "main.js.map": "/inventoryManagement/static/js/main.250eb2b3.chunk.js.map",
+    "runtime-main.js": "/inventoryManagement/static/js/runtime-main.591795ca.js",
+    "runtime-main.js.map": "/inventoryManagement/static/js/runtime-main.591795ca.js.map",
+    "static/js/2.2b2519ca.chunk.js": "/inventoryManagement/static/js/2.2b2519ca.chunk.js",
+    "static/js/2.2b2519ca.chunk.js.map": "/inventoryManagement/static/js/2.2b2519ca.chunk.js.map",
+    "static/js/3.6e7ca3f9.chunk.js": "/inventoryManagement/static/js/3.6e7ca3f9.chunk.js",
+    "static/js/3.6e7ca3f9.chunk.js.map": "/inventoryManagement/static/js/3.6e7ca3f9.chunk.js.map",
+    "index.html": "/inventoryManagement/index.html",
+    "static/css/main.9ac2f857.chunk.css.map": "/inventoryManagement/static/css/main.9ac2f857.chunk.css.map",
+    "static/js/2.2b2519ca.chunk.js.LICENSE.txt": "/inventoryManagement/static/js/2.2b2519ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.591795ca.js",
+    "static/js/2.2b2519ca.chunk.js",
+    "static/css/main.9ac2f857.chunk.css",
+    "static/js/main.250eb2b3.chunk.js"
+  ]
+}
